@@ -1,0 +1,17 @@
+main: br.com.stompamc.Main
+version: 2.0
+name: DivertLobby
+author: yNerdSz
+commands:
+  tag:
+  tags:
+  setspawn:
+  spawn:
+  tell:
+  fly:
+  admin:
+  cage:
+  r:
+  coins:
+  cc:
+  chat:
