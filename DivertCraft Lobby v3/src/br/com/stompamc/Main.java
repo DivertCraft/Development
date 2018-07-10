@@ -65,7 +65,7 @@ public class Main extends JavaPlugin {
 		instance = this;
 		WarpConfiguration.getConfig().ConfigEnable(this);
 		
-		Bukkit.getConsoleSender().sendMessage("§e[yNerdSz] §aPlugin iniciado do lobby.");
+		Bukkit.getConsoleSender().sendMessage("§e[DivertCraft] §aPlugin iniciado do lobby.");
 		
 		new ScoreboardUser().runTaskTimer(this, 1, 20);
 		
